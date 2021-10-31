@@ -1,1 +1,1 @@
-# Makine-renmesi-Dersi
+# Makine-ogrenmesi-Dersi
